@@ -15,7 +15,8 @@ dir_image = "img/"
 
 
 my_hashtags = """
-
+#Migraine #Migraines #MigraineAttack #MigrainesSuck #MigraineTriggers #MigraineProblems #MigraineLife #AbdominalMigraines #Headache #MenstrualMigraine  #Headaches #ChronicMigraine #ChronicHeadache   #HeadacheFromHell 
+#Losangeles #LAgram #USA #America#California #UnitedStates #city #citylife#view #bigcity
 """
 
 my_caption = ""
